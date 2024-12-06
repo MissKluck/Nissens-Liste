@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
 
-        // Test
+        // Tulle test
         var randomizer = new Randomiser();
         UserInfo[] randomUsers = new UserInfo[100];
         for (int i = 0; i < randomUsers.Length; i++)

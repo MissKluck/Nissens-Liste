@@ -77,44 +77,46 @@ public class CarModels
       break;
     case "Honda Fit":
       break;
-    case "":
+    case "Hyundai Sonata":
+      bools.naughtyOrNice =-10
+      break;
+    case "Volvo S60":
+      break;
+    case "Dodge Charger":
+      bools.naughtyOrNice =+15
+      break;
+    case "Audi A6":
+      bools.naughtyOrNice =+5
+      break;
+    case "BMW 3 Series":
+      break;
+    case "Mercedes-Benz C-Class":
+      bools.naughtyOrNice =-5
+      break;
+    case "Audi TT":
       bools.naughtyOrNice =+10
       break;
-    case "":
+    case "Ford Fusion":
+      break;
+    case "Tesla Model 3":
+      bools.naughtyOrNice =-15
+      break;
+    case "BMW 5 Series":
+      bools.naughtyOrNice =-5
+      break;
+    case "Dodge Challenger":
       bools.naughtyOrNice =+10
       break;
-    case "":
-      bools.naughtyOrNice =+10
+    case "Toyota Corolla":
       break;
-    case "":
-      bools.naughtyOrNice =+10
+    case "Mercedes-Benz SLK":
+      bools.naughtyOrNice =-5
       break;
-    case "":
-      bools.naughtyOrNice =+10
+    case "Ford Mustang":
+      bools.naughtyOrNice =+5
       break;
-    case "":
-      bools.naughtyOrNice =+10
-      break;
-    case "":
-      bools.naughtyOrNice =+10
-      break;
-    case "":
-      bools.naughtyOrNice =+10
+    case "Honda Accord":
+      bools.naughtyOrNice =+5
       break;
   }
 }
-Hyundai Sonata
-Volvo S60
-Dodge Charger
-Audi A6
-BMW 3 Series
-Mercedes-Benz C-Class
-Audi TT
-Ford Fusion
-Tesla Model 3
-BMW 5 Series
-Dodge Challenger
-Toyota Corolla
-Mercedes-Benz SLK
-Ford Mustang
-Honda Accord

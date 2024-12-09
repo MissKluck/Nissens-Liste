@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+dCbrIXZbA=",
+  "dgSpecHash": "2NeXYtCDw/w=",
   "success": true,
-  "projectFilePath": "/Users/Sigrid/Documents/C#/NissensListe/Nissens-Liste/Santas-List/Santas-List.csproj",
-  "expectedPackageFiles": [
-    "/Users/Sigrid/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/Sigrid/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "/Users/Sigrid/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.11/microsoft.netcore.app.host.osx-x64.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ericl\\Desktop\\Prosjekter\\Nissens Liste\\Santas-List\\Santas-List.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

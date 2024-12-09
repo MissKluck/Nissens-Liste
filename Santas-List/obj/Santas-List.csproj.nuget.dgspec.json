@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/Sigrid/Documents/C#/NissensListe/Nissens-Liste/Santas-List/Santas-List.csproj": {}
   },
   "projects": {
@@ -12,9 +13,28 @@
         "projectPath": "/Users/Sigrid/Documents/C#/NissensListe/Nissens-Liste/Santas-List/Santas-List.csproj",
         "packagesPath": "/Users/Sigrid/.nuget/packages/",
         "outputPath": "/Users/Sigrid/Documents/C#/NissensListe/Nissens-Liste/Santas-List/obj/",
+=======
+    "C:\\Users\\amali\\Documents\\Code\\Nissens-Liste\\Santas-List\\Santas-List.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amali\\Documents\\Code\\Nissens-Liste\\Santas-List\\Santas-List.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amali\\Documents\\Code\\Nissens-Liste\\Santas-List\\Santas-List.csproj",
+        "projectName": "Santas-List",
+        "projectPath": "C:\\Users\\amali\\Documents\\Code\\Nissens-Liste\\Santas-List\\Santas-List.csproj",
+        "packagesPath": "C:\\Users\\amali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amali\\Documents\\Code\\Nissens-Liste\\Santas-List\\obj\\",
+>>>>>>> refs/remotes/origin/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "/Users/Sigrid/.nuget/NuGet/NuGet.Config"
+=======
+          "C:\\Users\\amali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> refs/remotes/origin/main
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -73,7 +93,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+>>>>>>> refs/remotes/origin/main
         }
       }
     }

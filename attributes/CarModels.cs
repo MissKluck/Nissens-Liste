@@ -41,9 +41,59 @@ public class CarModels
       bools.naughtyOrNice =-20
       break;
     case "Nissan Altima":
-      bools.naughtyOrNice =+10
       break;
     case "Chevrolet Cruze":
+      break;
+    case "Mercedes - Benz E - Class":
+      bools.naughtyOrNice =-15
+      break;
+    case "Subaru BRZ":
+      bools.naughtyOrNice =+10
+      break;
+    case "Chevrolet Malibu":
+      bools.naughtyOrNice =+5
+      break;
+    case "Volkswagen Golf":
+      bools.naughtyOrNice =+10
+      break;
+    case "Subaru Impreza":
+      bools.naughtyOrNice =+5
+      break;
+    case "Nissan Maxima":
+      break;
+    case "Hyundai Veloster":
+      bools.naughtyOrNice =-10
+      break;
+    case "Alfa Romeo Giulia":
+      bools.naughtyOrNice =+10
+      break;
+    case "Mazda MX-5 Miata":
+      bools.naughtyOrNice =+5
+      break;
+    case "Toyota Camry":
+      break;
+    case "Nissan 370Z":
+      bools.naughtyOrNice =+10
+      break;
+    case "Honda Fit":
+      break;
+    case "":
+      bools.naughtyOrNice =+10
+      break;
+    case "":
+      bools.naughtyOrNice =+10
+      break;
+    case "":
+      bools.naughtyOrNice =+10
+      break;
+    case "":
+      bools.naughtyOrNice =+10
+      break;
+    case "":
+      bools.naughtyOrNice =+10
+      break;
+    case "":
+      bools.naughtyOrNice =+10
       break;
     case "":
       bools.naughtyOrNice =+10
@@ -53,18 +103,6 @@ public class CarModels
       break;
   }
 }
-Mercedes - Benz E - Class
-Subaru BRZ
-Chevrolet Malibu
-Volkswagen Golf
-Subaru Impreza
-Nissan Maxima
-Hyundai Veloster
-Alfa Romeo Giulia
-Mazda MX-5 Miata
-Toyota Camry
-Nissan 370Z
-Honda Fit
 Hyundai Sonata
 Volvo S60
 Dodge Charger
